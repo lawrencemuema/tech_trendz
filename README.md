@@ -7,7 +7,7 @@ docker build -t appname .
 ```
 ### Run
 ```
-docker run -d -p 800:0 appname
+docker run -d -p 8000:8000 appname
 ```
 ### Stop
 ```
